@@ -73,6 +73,11 @@ cargo build --release
 - [ ] Rechargement à chaud
 - [ ] Tests d'intégration
 
+## Auteurs
+
+- **Baptiste Goulard** — [@AlphanumericString](https://github.com/AlphanumericString)
+- **Maieul Boyer**
+
 ## Licence
 
 Distribué sous licence [GPL-3.0](LICENSE).
