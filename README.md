@@ -76,7 +76,7 @@ cargo build --release
 ## Auteurs
 
 - **Baptiste Goulard** — [@AlphanumericString](https://github.com/AlphanumericString)
-- **Maieul Boyer**
+- **Maieul Boyer** — [@maix0](https://github.com/maix0)
 
 ## Licence
 
