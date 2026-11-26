@@ -58,6 +58,8 @@ Le fichier de configuration permettra de régler, pour chaque programme :
 
 ## Compilation
 
+Une fois le code ajouté :
+
 ```sh
 cargo build --release
 ```
